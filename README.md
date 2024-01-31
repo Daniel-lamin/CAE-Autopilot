@@ -1,4 +1,4 @@
-# CAEAutoPilot
+# CAE-Autopilot
 Automation of the CAE Autopilot process - Allowing Autopilot configuration out-of-box with automated CAE Wifi setup
 
 ## Quick Start Guide
