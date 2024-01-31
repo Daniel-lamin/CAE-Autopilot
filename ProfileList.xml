@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<profiles>
+  <Item>
+    <Name>Standard Corporate</Name>
+    <GroupTag>CAE-Win-Autopilot-Corp</GroupTag>
+ </Item>
+  <Item>
+    <Name>Teams Meeting Room</Name>
+    <GroupTag>CAE-Win-Autopilot-CR</GroupTag>
+ </Item>
+  <Item>
+    <Name>MFG Kiosk</Name>
+    <GroupTag>CAE-Win-Autopilot-MFG</GroupTag>
+ </Item>
+</profiles>
