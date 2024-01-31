@@ -18,3 +18,8 @@ Automation of the CAE Autopilot process - Allowing Autopilot configuration out-o
 7) After 100 seconds Windows will reinstall - We recommend not fully cleaning the disk due to time considerations
 
 8) Once Rebooted, device is prepared for Autopilot
+
+## Benefits
+- No need to install standard Windows image before wiping and redeploying
+- Much faster than the previous manual method, especially when multiple devices need imaging
+- No need to rely on MDM Admin team in MTL timezone to action for new deployments
