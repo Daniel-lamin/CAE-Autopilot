@@ -1,5 +1,5 @@
 & '.\Prereqs\WiFi.bat'
-Start-Sleep -Seconds 5
+Start-Sleep -Seconds 2
 & '.\Prereqs\AutoImportHash.exe'
-Start-Sleep -Seconds 180
+Start-Sleep -Seconds 100
 systemreset -factoryreset
