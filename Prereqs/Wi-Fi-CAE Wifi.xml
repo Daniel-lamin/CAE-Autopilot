@@ -19,7 +19,7 @@
 			<sharedKey>
 				<keyType>passPhrase</keyType>
 				<protected>false</protected>
-				<keyMaterial>A1rbr8ke</keyMaterial>
+				<keyMaterial>**Insert Password Here**</keyMaterial>
 			</sharedKey>
 		</security>
 	</MSM>
