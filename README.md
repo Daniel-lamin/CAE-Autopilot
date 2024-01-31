@@ -1,6 +1,10 @@
 # CAE-Autopilot
 Automation of the CAE Autopilot process - Allowing Autopilot configuration out-of-box with automated CAE Wifi setup
 
+### First Time Use
+
+Before using this script please modify line 22 of **Wi-Fi-CAE Wifi.xml** (CAE-Autopilot/Prereqs/Wi-Fi-CAE Wifi.xml) to include the Wifi password for your site. Once changed this does not need to be updated again.
+
 ## Quick Start Guide
 
 1) Load repository onto insecure USB
